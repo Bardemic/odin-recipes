@@ -11,6 +11,7 @@ h1 {
     font-family: "Papyrus", Serif;
     color: rgba(255, 255, 0, 0.584);
     font-size: 50px;
+    text-align: center;
 }
 img {
     width: 300px;
@@ -21,4 +22,19 @@ img {
 }
 .steps, ol {
     color:beige;
+}
+.recipeList {
+    font-family: "Papyrus", Serif;
+    text-align: center;
+    padding-top: 40px;
+    font-size: 30px;
+    margin-bottom: 5px
+}
+.recipeLinks {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.recipeLinks li {
+    margin: 20px;
 }
